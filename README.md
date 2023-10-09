@@ -1,2 +1,3 @@
+
 # check_Images_spencers
-Udacity project 
+# Udacity project from my programming course. 
